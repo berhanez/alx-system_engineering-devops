@@ -1,1 +1,0 @@
-head -n 2 README.md | tail -n +2 -n 2 README.md
