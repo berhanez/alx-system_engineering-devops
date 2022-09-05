@@ -6,3 +6,4 @@
 13-unique sorts and prints only words that appear once
 gre[
 count the lines
+show 3 lines after grep
