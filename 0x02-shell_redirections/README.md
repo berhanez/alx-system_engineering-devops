@@ -12,3 +12,4 @@ display all line starting with leteer
 only strings that start with alpha letters
 only start with letters 18-letteronly
 replacing characters 19-AZ using tr
+delete letters from an input 20-hiago
