@@ -10,3 +10,4 @@ show 3 lines after grep
 do not show bin
 display all line starting with leteer
 only strings that start with alpha letters
+only start with letters 18-letteronly
