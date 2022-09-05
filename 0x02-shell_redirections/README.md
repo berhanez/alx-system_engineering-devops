@@ -5,3 +5,4 @@
 12-newest_files show 10 latestf files
 13-unique sorts and prints only words that appear once
 gre[
+count the lines
