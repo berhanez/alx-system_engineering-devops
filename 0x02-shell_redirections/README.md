@@ -7,3 +7,4 @@
 gre[
 count the lines
 show 3 lines after grep
+do not show bin
