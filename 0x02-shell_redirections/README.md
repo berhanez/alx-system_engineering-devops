@@ -19,3 +19,4 @@ Sort function added to ./22-users_and_homes
 split user and home dir from /etc/passwd with cut and delimiter
 script 100-empty_casks finds all empty files and dirs
 find empty files 100-empty_casks
+find empty files and display without path 100-empty_casks
