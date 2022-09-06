@@ -13,3 +13,4 @@ az character combo with space and new line and oo excluded
 always prints with 2 decimals 13-print_float
 deimal to hexadecimal
 rot 13 encryption
+print every other line with 102-odd script
