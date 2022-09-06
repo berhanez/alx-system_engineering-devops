@@ -16,3 +16,4 @@ delete letters from an input 20-hiago
 Simple reverse in 21-reverse using rev
 using grep to get all users and their home dir 22-users_and_homes
 Sort function added to ./22-users_and_homes
+split user and home dir from /etc/passwd with cut and delimiter
