@@ -12,3 +12,4 @@ BREATH to the power of LOVE
 az character combo with space and new line and oo excluded
 always prints with 2 decimals 13-print_float
 deimal to hexadecimal
+rot 13 encryption
