@@ -10,3 +10,4 @@ divided one var by another
 BREATH to the power of LOVE
 11-binary_to_decimal displays Binary number in Base 10 format
 az character combo with space and new line and oo excluded
+always prints with 2 decimals 13-print_float
