@@ -8,3 +8,4 @@ created var BEST
 7-create_global_variable created a global variable by export
 divided one var by another
 BREATH to the power of LOVE
+11-binary_to_decimal displays Binary number in Base 10 format
