@@ -23,3 +23,4 @@ find empty files and display without path 100-empty_casks
 redone 100-empty_casks
 gif fider 101-gifs
 only gifs
+Acrostic
