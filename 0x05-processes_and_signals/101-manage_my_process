@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Manages the script manage_my_process.
+#   When passed the argument `start`:
+
+if [ "$1" == "start" ]
+then
+  ./manage_my_process &
+  echo $$ > /var/run/my_process.pid
+  echo "manage_my_process started"
+
+else
+  echo "Usage: manage_my_process {start|stop|restart}"
+fi

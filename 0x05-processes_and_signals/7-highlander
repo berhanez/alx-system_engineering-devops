@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# "To infinity and beyond" with "I am invincible!!!" in between each iteration.
+# "To infinity and beyond" with "I am invincible!!!"
+# ..in between
+
 while true
 do
   echo "To infinity and beyond"
