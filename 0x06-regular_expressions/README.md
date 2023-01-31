@@ -33,5 +33,15 @@ bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions
 $
 ```
 
+* 1. Repetition Token #0
+	* Find the regular expression that will match the above cases
+	* Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
-
+* 2. Repetition Token #1 (2-repetition_token_1.rb)
+	* Find the regular expression that will match the above cases
+	* Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+	
+* 3. Repetition Token #2 (3-repetition_token_2.rb)
+	* Find the regular expression that will match the above cases
+	* Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+	
