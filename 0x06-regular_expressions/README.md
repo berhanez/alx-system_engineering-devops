@@ -65,4 +65,15 @@ h8n$
 bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$ ./5-beginning_and_end.rb 'haaaaaan' | cat -e
 $
 ```
-* Only works when it starts with 'h', ends in 'n' and has exactly one char in between.
+	* Only works when it starts with 'h', ends in 'n' and has exactly one char in between.
+
+* 6. Call me maybe (6-phone_number.rb)
+	* The regular expression must match a 10 digit phone number
+```
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$  ./6-phone_number.rb 4155049898 | cat -e
+4155049898$
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$  ./6-phone_number.rb " 4155049898" | cat -e
+$
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$ ./6-phone_number.rb "415 504 9898" | cat -e
+$
+```
