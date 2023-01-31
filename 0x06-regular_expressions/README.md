@@ -77,3 +77,12 @@ $
 bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$ ./6-phone_number.rb "415 504 9898" | cat -e
 $
 ```
+
+* 7. OMG WHY ARE YOU SHOUTING?(7-OMG_WHY_ARE_YOU_SHOUTING.rb)
+	* The regular expression must be only matching: capital letters
+```
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$ ./7-OMG_WHY_ARE_YOU_SHOUTING.rb "I realLy hOpe VancouvEr posseSs Yummy Soft vAnilla Dupper Mint Ice Nutella cream" | cat -e
+ILOVESYSADMIN$
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x06-regular_expressions$ ./7-OMG_WHY_ARE_YOU_SHOUTING.rb "I aLsjdhwu sOajkfhVawiEu kaPsfIhwIi askdjgaskdZZaasd fhaskhsakfhA" | cat -e
+ILOVEPIIZZA$
+```
