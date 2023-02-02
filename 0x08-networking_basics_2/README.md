@@ -70,6 +70,11 @@ rtt min/avg/max/mdev = 78.030/442.337/1007.981/417.856 ms, pipe 2
 * **1. Show attached IPs** (1-show_attached_IPs)
 	* Bash script that displays all active IPv4 IPs on the machine it’s executed on.
 ```
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x08-networking_basics_2$ chmod +x 1-show_attached_IPs
+bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x08-networking_basics_2$ ./1-show_attached_IPs | cat -e
+.0.1$
+68.0.8$
+
 ```
 
 * **2. Port listening on localhost** (100-port_listening_on_localhost)
