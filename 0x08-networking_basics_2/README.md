@@ -80,4 +80,15 @@ bre@bzdt:~/Desktop/python/alx-system_engineering-devops/0x08-networking_basics_2
 * **2. Port listening on localhost** (100-port_listening_on_localhost)
 	*  Bash script that listens on port 98 on localhost.
 ```
+sylvain@ubuntu$ telnet localhost 98
+Trying 127.0.0.2...
+Connected to localhost.
+Escape character is '^]'.
+Hello world
+test
+```
+```
+sylvain@ubuntu$ sudo ./100-port_listening_on_localhost
+Hello world
+test
 ```
